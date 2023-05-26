@@ -1,2 +1,2 @@
-# Weather-Forecast
-Designed a beautiful weather forecast website using API so internet connectivity is necessary
+# Rock Paper Scissor
+Created intransative hand game using python
